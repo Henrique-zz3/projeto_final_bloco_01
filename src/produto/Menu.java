@@ -9,7 +9,7 @@ public class Menu {
 	public static void main(String[] args) {
 		
 		
-		int opcao, ano, console;
+		int opcao, ano, console, numero;
 		String categoria, nome;
 		float valor;
 		
